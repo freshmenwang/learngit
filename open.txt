@@ -1,0 +1,71 @@
+http://localhost/police/public/admin/index/login.html
+
+http://gcgl.nssoft.net/work/project?ref=addtabs
+
+
+<!-- <div class="form-group">
+        <label for="name" class="control-label col-xs-12 col-sm-2">当前周:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-week" class="form-control" name="row[week]" type="number">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="name" class="control-label col-xs-12 col-sm-2">日期范围:</label>
+        <div class="col-xs-12 col-sm-2">
+            <input id="c-start_time" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[start_time]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+        <label for="name" class="control-label col-xs-12 col-sm-1">至</label>
+        <div class="col-xs-12 col-sm-2">
+            <input id="end_date" data-rule="" class="form-control datetimepicker" data-date-format="YYYY-MM-DD" data-use-current="true" name="row[end_date]" value="{$end_date}" type="text" > 
+        </div>
+    </div>
+    <input id="c-creat_time" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[creat_time]" type="text" value="{:date('Y-m-d H:i:s')}" visable="false"> -->
+
+
+http://www.toppms.com/index.aspx?rand=2
+
+排查错误
+https://forum.fastadmin.net/thread/1746
+https://forum.fastadmin.net/thread/985
+
+https://www.apiview.com//
+
+三表关联
+https://forum.fastadmin.net/thread/7347
+
+弹窗功能
+https://forum.fastadmin.net/thread/2527
+
+表单生成器
+https://forum.fastadmin.net/thread/5567
+
+接口编写
+https://www.apiview.com//
+ranger68@126.com
+zailai1ping
+
+https://www.sojson.com/httpRequest/
+
+php学习
+https://www.bilibili.com/video/av10274152?from=search&seid=3699142514231815460
+
+java学习
+https://www.bilibili.com/video/av11361088?from=search&seid=4380359370964782568
+
+python学习
+https://www.bilibili.com/video/av4050443?from=search&seid=1828128860414232953
+
+notepad下载
+https://notepad-plus-plus.org/
+
+git 图形化工具使用教程
+https://www.cnblogs.com/shanheyongmu/p/6726452.html
+
+廖学峰git教程
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
+
+github
+https://blog.csdn.net/qq_26591517/article/details/80597745
+git
+https://geeeeeeeeek.github.io/git-recipes/
